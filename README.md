@@ -1,3 +1,7 @@
-|:computer:|:card_index_dividers:|
-|:-:|:-:|
-|![Lruihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lruihao&show_icons=true&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lruihao&layout=compact&hide=html)|
+### 👋 Hi there, This is Lruihao. 
+
+![](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
+
+- :memo: [Blog]
+
+[Blog]: https://lruihao.cn
