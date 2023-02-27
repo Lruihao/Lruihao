@@ -2,6 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
 
-- :memo: [Blog]
+- :memo: [My Blog][blog]
 
-[Blog]: https://lruihao.cn
+[blog]: https://github.com/Lruihao/hugo-blog
