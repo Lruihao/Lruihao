@@ -1,7 +1,9 @@
 ### 👋 Hi there, This is Lruihao. 
 
-![](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
+![views](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
 
-- :memo: [My Blog][blog]
+- A front-end developer ([My Blog][blog])
+- The creator of [@hugo-fixit][hugo-fixit] 
 
 [blog]: https://github.com/Lruihao/hugo-blog
+[hugo-fixit]: https://github.com/hugo-fixit
