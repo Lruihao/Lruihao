@@ -6,6 +6,6 @@
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit].
 - 📝 I regularly write articles and docs on [菠菜眾長][blog] and [FixIt][fixit].
 
-[blog]: https://github.com/Lruihao/hugo-blog
+[blog]: https://lruihao.cn
 [hugo-fixit]: https://github.com/hugo-fixit
 [fixit]: https://fixit.lruihao.cn
