@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://lruihao.cn/index.xml,https://fixit.lruihao.cn/index.xml,https://fixit.lruihao.cn/zh-cn/index.xml'
-          feed_names: 'Blog,FixIt,FixIt-CN'
-          template: $newline- $randomEmoji(🔥,📝,👨‍💻) [$title - $feedName]($url '$date')
+          feed_names: '菠菜眾長,FixIt,FixIt-CN'
+          template: '- $randomEmoji(🔥,📝,👨‍💻) [$title - $feedName]($url "$date")$newline'
           max_post_count: 10
           tag_post_pre_newline: true
