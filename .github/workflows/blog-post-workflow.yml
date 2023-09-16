@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: 'https://lruihao.cn/index.xml,https://fixit.lruihao.cn/index.xml,https://fixit.lruihao.cn/zh-cn/index.xml'
           feed_names: 'Blog,FixIt,FixIt-CN'
-          template: $newline- $randomEmoji(🔥,📝,👨‍💻)[$title - $feedName]($url '$date')$newline
+          template: $newline- $randomEmoji(🔥,📝,👨‍💻) [$title - $feedName]($url '$date')
           max_post_count: 10
