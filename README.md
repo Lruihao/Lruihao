@@ -6,6 +6,10 @@
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit]
 - 📫 How to reach me: [微博](https://weibo.com/liahao)
 
+## Recent Activities
+
+See more details in this [project](https://github.com/users/Lruihao/projects/1).
+
 ## Latest Blog Posts
 
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
