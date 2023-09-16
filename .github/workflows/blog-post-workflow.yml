@@ -20,3 +20,4 @@ jobs:
           feed_names: 'Blog,FixIt,FixIt-CN'
           template: $newline- $randomEmoji(🔥,📝,👨‍💻) [$title - $feedName]($url '$date')
           max_post_count: 10
+          tag_post_pre_newline: true
