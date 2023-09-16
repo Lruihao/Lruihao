@@ -5,6 +5,7 @@
 - 👨‍💻 A front-end development engineer.
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit].
 - 📝 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
+- 📫 How to reach me: [微博](https://weibo.com/liahao)
 
 ## Latest Blog Posts
 

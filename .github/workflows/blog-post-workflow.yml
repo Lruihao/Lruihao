@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 12 * * *' # Runs at 12pm UTC
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -19,3 +19,4 @@ jobs:
           feed_list: 'https://lruihao.cn/index.xml,https://fixit.lruihao.cn/index.xml,https://fixit.lruihao.cn/zh-cn/index.xml'
           feed_names: 'Blog,FixIt,FixIt-CN'
           max_post_count: 10
+          template: $newline - $randomEmoji(🔥,📝,👨‍💻)[$title - $feedName]($url $description)
