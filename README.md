@@ -2,8 +2,8 @@
 
 ![views](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
 
-- 👨‍💻 A front-end development engineer.
-- 👨‍💼 The creator of [@hugo-fixit][hugo-fixit].
+- 👨‍💻 A front-end development engineer
+- 👨‍💼 The creator of [@hugo-fixit][hugo-fixit]
 - 📫 How to reach me: [微博](https://weibo.com/liahao)
 
 ## Latest Blog Posts
