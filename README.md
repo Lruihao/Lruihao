@@ -11,6 +11,7 @@
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
+
 - 📝 [JS 实现全屏和退出全屏 - Blog](https://lruihao.cn/posts/js-fullscreen/ 'Fri Sep 15 2023 9:29 AM')
 - 🔥 [中文翻译的常见问题 - Blog](https://lruihao.cn/posts/translation-guide/ 'Fri Sep 15 2023 3:07 AM')
 - 📝 [在 Vue 项目中更优雅的使用 icon - Blog](https://lruihao.cn/posts/vue-svg-icon/ 'Thu Sep 14 2023 3:24 AM')
@@ -20,7 +21,8 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 📝 [用魔法打败魔法 - ElBacktop Fix - Blog](https://lruihao.cn/posts/el-backtop-fix/ 'Thu Jul 20 2023 3:08 AM')
 - 👨‍💻 [使用 Node.js 自动创建 Vue 的路由 - Blog](https://lruihao.cn/posts/gen-router/ 'Tue Jun 13 2023 4:11 PM')
 - 📝 [解决 SourceTree 提交时候 husky 命令失败问题 - Blog](https://lruihao.cn/posts/sourcetree-husky/ 'Mon Jun 12 2023 2:58 AM')
-- 📝 [Vue2 + tailwindcss 初始化 - Blog](https://lruihao.cn/posts/v2-tailwind/ 'Sat Jun 03 2023 9:38 AM')<!-- BLOG-POST-LIST:END -->
+- 📝 [Vue2 + tailwindcss 初始化 - Blog](https://lruihao.cn/posts/v2-tailwind/ 'Sat Jun 03 2023 9:38 AM')
+<!-- BLOG-POST-LIST:END -->
 
 <!-- link reference definition -->
 [blog]: https://lruihao.cn
