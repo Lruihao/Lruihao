@@ -4,7 +4,7 @@
 
 - 👨‍💻 A front-end development engineer
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit]
-- 📫 How to reach me: [微博](https://weibo.com/liahao)
+- 📫 How to reach me: [Blog][blog], [微博](https://weibo.com/liahao)
 
 ## Recent Activities
 
