@@ -22,7 +22,7 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 📝 [拖拽式仪表盘 - 组件配置文档 - 菠菜眾長](https://lruihao.cn/posts/dashborad-widget-docs/ "Thu Oct 12 2023 11:41 AM")
 - 👨‍💻 [拖拽式仪表盘 - 布局模板文档 - 菠菜眾長](https://lruihao.cn/posts/dashborad-template-docs/ "Thu Oct 12 2023 11:27 AM")
 - 📝 [拖拽式仪表盘 - 功能需求分析 - 菠菜眾長](https://lruihao.cn/posts/dashboard-analysis/ "Thu Oct 12 2023 7:37 AM")
-- 👨‍💻 [给博客类项目添加 markdownlint 语法检查 - 菠菜眾長](https://lruihao.cn/posts/markdownlint/ "Wed Oct 11 2023 6:26 AM")
+- 👨‍💻 [给你的 Markdown 挑挑刺 - 菠菜眾長](https://lruihao.cn/posts/markdownlint/ "Wed Oct 11 2023 6:26 AM")
 - 📝 [认知复杂度（Cognitive Complexity） - 菠菜眾長](https://lruihao.cn/posts/cognitive-complexity/ "Sun Oct 08 2023 1:52 AM")
 - 📝 [写作技巧：如何搭建文章的框架结构？ - 菠菜眾長](https://lruihao.cn/posts/article-structure/ "Tue Sep 26 2023 7:17 AM")
 
