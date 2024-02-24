@@ -23,8 +23,8 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 👨‍💻 [为什么很多教程中都有 foo bar？ | 菠菜眾長](https://lruihao.cn/posts/20b75e9/ "Wed Jan 17 2024 1:58 AM")
 - 📝 [git submodule: already exists in the index | 菠菜眾長](https://lruihao.cn/posts/6550187/ "Thu Jan 11 2024 2:30 AM")
 - 👨‍💻 [给 el-card 添加折叠功能 | 菠菜眾長](https://lruihao.cn/posts/el-card-collapse/ "Wed Jan 10 2024 9:06 AM")
+- 📝 [尝试在 Python 中使用 Amazon Titan 文本模型 | 菠菜眾長](https://lruihao.cn/posts/d8ae205/ "Fri Dec 22 2023 11:58 AM")
 - 📝 [Tips about algolia | FixIt](https://fixit.lruihao.cn/guides/algolia-atomic/ "Fri Dec 01 2023 2:20 AM")
-- 📝 [关于 algolia 的使用技巧 | FixIt-CN](https://fixit.lruihao.cn/zh-cn/guides/algolia-atomic/ "Fri Dec 01 2023 2:20 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
