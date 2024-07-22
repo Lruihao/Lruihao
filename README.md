@@ -26,16 +26,16 @@ See more details in this [project](https://github.com/users/Lruihao/projects/1).
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [Extended Shortcode - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
+- 🔥 [扩展 Shortcode - Timeline | FixIt-CN](https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
+- 📝 [Code Fences Extended - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/timeline-support/ "Sat Jul 20 2024 11:25 AM")
+- 📝 [代码块扩展语法 - 时间线（Timeline） | FixIt-CN](https://fixit.lruihao.cn/zh-cn/documentation/content-management/timeline-support/ "Sat Jul 20 2024 11:25 AM")
 - 📝 [Git 统计代码量 | 菠菜眾長](https://lruihao.cn/posts/git-summary/ "Wed Jul 17 2024 8:06 AM")
-- 🔥 [【现代 CSS】异形元素怎么设置阴影？ | 菠菜眾長](https://lruihao.cn/posts/drop-shadow/ "Mon Jul 15 2024 2:40 AM")
+- 👨‍💻 [【现代 CSS】异形元素怎么设置阴影？ | 菠菜眾長](https://lruihao.cn/posts/drop-shadow/ "Mon Jul 15 2024 2:40 AM")
 - 📝 [【CSS 奇技淫巧】CSS 实现时间轴、背景图 loading 和渐变边框 | 菠菜眾長](https://lruihao.cn/posts/fixit-docs-bookmark/ "Sun Jul 14 2024 5:03 AM")
-- 📝 [【现代 CSS】标准滚动条控制规范 | 菠菜眾長](https://lruihao.cn/posts/scrollbar-styling/ "Fri Jun 28 2024 2:29 PM")
+- 👨‍💻 [【现代 CSS】标准滚动条控制规范 | 菠菜眾長](https://lruihao.cn/posts/scrollbar-styling/ "Fri Jun 28 2024 2:29 PM")
 - 📝 [How to Develop a Hugo Theme Component | FixIt](https://fixit.lruihao.cn/components/dev-component/ "Thu Jun 27 2024 9:35 AM")
-- 👨‍💻 [如何开发一个 Hugo 主题组件 | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/dev-component/ "Thu Jun 27 2024 9:35 AM")
-- 📝 [如何实现 VSCode 编辑器窗口边界拖拽类似功能 | 菠菜眾長](https://lruihao.cn/posts/aside-toggle-drag/ "Thu Jun 13 2024 1:03 PM")
-- 👨‍💻 [架构之基：从根儿上了解设计原则 | 菠菜眾長](https://lruihao.cn/posts/design-principles/ "Sat Jun 08 2024 6:24 PM")
-- 📝 [怎么生成暗黑模式和明亮模式的 SVG 图片？ | 菠菜眾長](https://lruihao.cn/posts/svg-dark-light/ "Thu Jun 06 2024 2:13 PM")
-- 📝 [分享一个 canvas 实现的小鱼游动动画效果 | FixIt-CN](https://fixit.lruihao.cn/zh-cn/guides/flyfish/ "Wed May 22 2024 2:12 AM")
+- 📝 [如何开发一个 Hugo 主题组件 | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/dev-component/ "Thu Jun 27 2024 9:35 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
