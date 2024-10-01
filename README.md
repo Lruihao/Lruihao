@@ -26,16 +26,16 @@ See more details in this [project](https://github.com/users/Lruihao/projects/1).
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
+- 🔥 [⚙️ Versioning, change-log and release. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
+- 📝 [⚙️ Versioning, change-log and release. | FixIt](https://fixit.lruihao.cn/components/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
+- 📝 [⚙️ Versioning, change-log and release. | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
+- 📝 [[WIP] Hugo theme component for ATOM feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-atom-feed/ "Thu Aug 22 2024 3:29 AM")
+- 👨‍💻 [Hugo theme component for JSON feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 📝 [Hugo theme component for JSON feed custom Output Format. | FixIt](https://fixit.lruihao.cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 👨‍💻 [Hugo theme component for JSON feed custom Output Format. | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 📝 [Mobile devtools component powered by vConsole and eruda. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
 - 📝 [现代 CSS 解决方案：CSS 四舍五入数值单位 | 菠菜眾長](https://lruihao.cn/posts/css-round/ "Mon Jul 29 2024 12:32 PM")
-- 🔥 [Extended Shortcode - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
-- 📝 [扩展 Shortcode - Timeline | FixIt-CN](https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
-- 📝 [Code Fences Extended - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/timeline-support/ "Sat Jul 20 2024 11:25 AM")
-- 📝 [代码块扩展语法 - 时间线（Timeline） | FixIt-CN](https://fixit.lruihao.cn/zh-cn/documentation/content-management/timeline-support/ "Sat Jul 20 2024 11:25 AM")
-- 👨‍💻 [Git 统计代码量 | 菠菜眾長](https://lruihao.cn/posts/git-summary/ "Wed Jul 17 2024 8:06 AM")
-- 📝 [现代 CSS 解决方案之异形元素怎么设置阴影？ | 菠菜眾長](https://lruihao.cn/posts/drop-shadow/ "Mon Jul 15 2024 2:40 AM")
-- 👨‍💻 [CSS 实现时间轴、背景图 loading 和渐变边框 | 菠菜眾長](https://lruihao.cn/posts/fixit-docs-bookmark/ "Sun Jul 14 2024 5:03 AM")
-- 📝 [标准滚动条控制规范 | 菠菜眾長](https://lruihao.cn/posts/scrollbar-styling/ "Fri Jun 28 2024 2:29 PM")
-- 📝 [How to Develop a Hugo Theme Component | FixIt](https://fixit.lruihao.cn/components/dev-component/ "Thu Jun 27 2024 9:35 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
