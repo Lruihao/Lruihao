@@ -30,12 +30,12 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 🔥 [⚙️ Versioning, change-log and release. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
 - 📝 [⚙️ Versioning, change-log and release. | FixIt](https://fixit.lruihao.cn/components/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
 - 📝 [⚙️ Versioning, change-log and release. | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
-- 📝 [[WIP] Hugo theme component for ATOM feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-atom-feed/ "Thu Aug 22 2024 3:29 AM")
-- 👨‍💻 [Hugo theme component for JSON feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
-- 📝 [Hugo theme component for JSON feed custom Output Format. | FixIt](https://fixit.lruihao.cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
-- 👨‍💻 [Hugo theme component for JSON feed custom Output Format. | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
-- 📝 [Mobile devtools component powered by vConsole and eruda. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
+- 📝 [Hugo theme component for JSON feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 👨‍💻 [Hugo theme component for JSON feed custom Output Format. | FixIt](https://fixit.lruihao.cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 📝 [Hugo theme component for JSON feed custom Output Format. | FixIt-CN](https://fixit.lruihao.cn/zh-cn/components/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 👨‍💻 [Mobile devtools component powered by vConsole and eruda. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
 - 📝 [现代 CSS 解决方案：CSS 四舍五入数值单位 | 菠菜眾長](https://lruihao.cn/posts/css-round/ "Mon Jul 29 2024 12:32 PM")
+- 📝 [A Hugo theme component with reward-log or sponsor-log shortcode. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/shortcode-rewards/ "Sun Jul 21 2024 2:02 PM")
 
 <!-- BLOG-POST-LIST:END -->
 
