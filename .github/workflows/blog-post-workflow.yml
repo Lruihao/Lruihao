@@ -16,8 +16,9 @@ jobs:
       - name: Pull in lruihao.cn posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://lruihao.cn/index.xml,https://fixit.lruihao.cn/index.xml,https://fixit.lruihao.cn/zh-cn/index.xml'
+          # https://fixit.lruihao.cn/zh-cn/index.xml
+          feed_list: 'https://lruihao.cn/index.xml,https://fixit.lruihao.cn/index.xml'
           feed_names: '菠菜眾長,FixIt,FixIt-CN'
           template: '- $randomEmoji(🔥,📝,👨‍💻) [$title | $feedName]($url "$date")$newline'
-          max_post_count: 10
+          max_post_count: 12
           tag_post_pre_newline: true
