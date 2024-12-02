@@ -26,18 +26,18 @@ See more details in this [project](https://github.com/users/Lruihao/projects/1).
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [🐟 一个 canvas 实现的小鱼游动动画效果。 | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
-- 🔥 [🐟 一个 canvas 实现的小鱼游动动画效果。 | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
+- 📝 [CSE Support | FixIt](https://fixit.lruihao.cn/guides/cse-support/ "Thu Nov 28 2024 7:01 AM")
+- 🔥 [🐟 一个 canvas 实现的小鱼游动动画效果。 | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
+- 📝 [🐟 一个 canvas 实现的小鱼游动动画效果。 | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
 - 📝 [Related content | FixIt](https://fixit.lruihao.cn/documentation/content-management/related/ "Sat Oct 26 2024 5:05 PM")
 - 📝 [🌲 Bundles the FixIt core theme and all hugo-fixit components into a single component. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/fixit-bundle/ "Wed Oct 09 2024 3:44 AM")
-- 📝 [自动获取 GitHub README 内容添加到 Hugo 文章 | 菠菜眾長](https://lruihao.cn/posts/content-adapters/ "Sun Oct 06 2024 3:10 AM")
-- 👨‍💻 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
-- 📝 [⚙️ Versioning, change-log and release. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
-- 👨‍💻 [⚙️ Versioning, change-log and release. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
+- 👨‍💻 [自动获取 GitHub README 内容添加到 Hugo 文章 | 菠菜眾長](https://lruihao.cn/posts/content-adapters/ "Sun Oct 06 2024 3:10 AM")
+- 📝 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
+- 👨‍💻 [⚙️ Versioning, change-log and release. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
+- 📝 [⚙️ Versioning, change-log and release. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
 - 📝 [Hugo theme component for JSON feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
-- 📝 [Hugo theme component for JSON feed custom Output Format. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
-- 🔥 [Mobile devtools component powered by vConsole and eruda. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
-- 📝 [Mobile devtools component powered by vConsole and eruda. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
+- 🔥 [Hugo theme component for JSON feed custom Output Format. | FixIt](https://fixit.lruihao.cn/ecosystem/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 📝 [Mobile devtools component powered by vConsole and eruda. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-mdevtools/ "Wed Aug 07 2024 5:49 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
