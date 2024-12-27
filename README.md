@@ -29,9 +29,8 @@
         <img src="https://github.com/Lruihao/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
         <img src="https://github.com/Lruihao/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
     </a>
+    <p>See more details in this <a href="https://github.com/users/Lruihao/projects/1">project</a>.</p>
 </div>
-
-See more details in this [project](https://github.com/users/Lruihao/projects/1).
 
 ## Latest Blog Posts
 
