@@ -1,10 +1,22 @@
-# 👋 Hi there, This is Lruihao
+<!-- # 👋 Hi there, This is Lruihao -->
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9ACA&width=435&lines=Hi%2C+I'm+Lruihao+%F0%9F%91%8B+)
 
 ![views](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
 
 - 👨‍💻 A front-end development engineer
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit]
 - 📫 How to reach me: [Blog][blog], [微信](https://lruihao.cn/images/qr-wx-mp_s.webp "加我微信：关注公众号回复“Cell”"), [微博](https://weibo.com/liahao)
+
+## Tech stack
+
+<!-- nextjs,nuxtjs,nestjs,windicss -->
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,ts,vue,react,electron,tailwind,html,css,js,jquery,sass,less,bootstrap,php,python,laravel,mysql,md,latex,&perline=10)
+
+## Tools I use
+
+![My Tools](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,pnpm,vim)
 
 ## Recent Activities
 
