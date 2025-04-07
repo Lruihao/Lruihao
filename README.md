@@ -46,7 +46,7 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 📝 [自动获取 GitHub README 内容添加到 Hugo 文章 | 菠菜眾長](https://lruihao.cn/posts/content-adapters/ "Sun Oct 06 2024 3:10 AM")
 - 📝 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
 - 🔥 [⚙️ Versioning, change-log and release. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/fixit-releaser/ "Wed Sep 04 2024 6:10 PM")
-- 📝 [Hugo theme component for JSON feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-json-feed/ "Thu Aug 22 2024 3:28 AM")
+- 📝 [Hugo theme component for ATOM feed custom Output Format. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/hugo-atom-feed/ "Thu Aug 22 2024 3:29 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
