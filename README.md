@@ -43,9 +43,10 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 👨‍💻 [震惊！CSS 竟然能获取视口尺寸？ | 菠菜眾長](https://lruihao.cn/posts/css-viewport/ "Fri Dec 06 2024 2:32 AM")
 - 📝 [🌐 A component for site automatic translation. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-translate/ "Mon Dec 02 2024 7:29 AM")
 - 👨‍💻 [🐟 一个 canvas 实现的小鱼游动动画效果。 | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
+- 📝 [Related content | FixIt](https://fixit.lruihao.cn/documentation/content-management/related/ "Sat Oct 26 2024 5:05 PM")
 - 📝 [自动获取 GitHub README 内容添加到 Hugo 文章 | 菠菜眾長](https://lruihao.cn/posts/content-adapters/ "Sun Oct 06 2024 3:10 AM")
-- 📝 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
-- 🔥 [How to Develop a Hugo Theme Component | FixIt](https://fixit.lruihao.cn/ecosystem/dev-component/ "Thu Jun 27 2024 9:35 AM")
+- 🔥 [不使用任何框架，只使用原生 HTML、CSS 和 JavaScript 的一些小 demo。 | 菠菜眾長](https://lruihao.cn/projects/lruihao/html-demo/ "Fri Sep 13 2024 2:36 AM")
+- 📝 [Extended Shortcode - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
