@@ -45,8 +45,7 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 👨‍💻 [震惊！CSS 竟然能获取视口尺寸？ | 菠菜眾長](https://lruihao.cn/posts/css-viewport/ "Fri Dec 06 2024 2:32 AM")
 - 📝 [🌐 A component for site automatic translation. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-translate/ "Mon Dec 02 2024 7:29 AM")
 - 📝 [🐟 A canvas implemented animation effect of small fish swimming. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/cmpt-flyfish/ "Tue Nov 05 2024 8:23 AM")
-- 🔥 [Related content | FixIt](https://fixit.lruihao.cn/documentation/content-management/related/ "Sat Oct 26 2024 5:05 PM")
-- 📝 [Extended Shortcode - Timeline | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/timeline/ "Sun Jul 21 2024 2:44 AM")
+- 🔥 [How to Develop a Hugo Theme Component | FixIt](https://fixit.lruihao.cn/ecosystem/dev-component/ "Thu Jun 27 2024 9:35 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
