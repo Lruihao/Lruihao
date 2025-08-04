@@ -8,6 +8,8 @@
 - 👨‍💼 The creator of [@hugo-fixit][hugo-fixit]
 - 📫 How to reach me: [Blog][blog], [微信](https://lruihao.cn/images/qr-wx-mp_s.webp "加我微信：关注公众号回复“Cell”"), [微博](https://weibo.com/liahao)
 
+<p>See more details in <a href="https://lruihao.cn/projects/">my projects</a>.</p>
+
 <div>
     <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
         <img src="https://github.com/Lruihao/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -17,7 +19,6 @@
         <img src="https://github.com/Lruihao/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
         <img src="https://github.com/Lruihao/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
     </a>
-    <p>See more details in <a href="https://github.com/users/Lruihao/projects/1">my recent activities</a> and <a href="https://github.com/orgs/hugo-fixit/projects/2">Roadmap of FixIt</a>.</p>
 </div>
 
 ## Tech stack
