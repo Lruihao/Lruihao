@@ -36,17 +36,17 @@
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [黑盒出关・三把钥匙定江湖 | 菠菜眾長](https://lruihao.cn/posts/wc-01-prologue/ "Tue Aug 05 2025 3:31 AM")
-- 🔥 [Code Playground | 菠菜眾長](https://lruihao.cn/posts/code-playground/ "Mon Aug 04 2025 3:37 AM")
+- 📝 [让 Mermaid 图表自动跟随系统深浅色 | 菠菜眾長](https://lruihao.cn/posts/mermaid-theming/ "Sat Aug 16 2025 4:37 AM")
+- 🔥 [黑盒出关・三把钥匙定江湖 | 菠菜眾長](https://lruihao.cn/posts/wc-01-prologue/ "Tue Aug 05 2025 3:31 AM")
+- 📝 [Code Playground | 菠菜眾長](https://lruihao.cn/posts/code-playground/ "Mon Aug 04 2025 3:37 AM")
 - 📝 [A custom web component that embeds caniuse.com browser compatibility data for a specific feature. | 菠菜眾長](https://lruihao.cn/projects/lruihao/caniuse-embed-element/ "Tue Jul 22 2025 3:40 AM")
 - 📝 [Mathematical formulas - MathJax support | FixIt](https://fixit.lruihao.cn/documentation/content-management/mathjax-support/ "Sun Jun 29 2025 11:30 AM")
-- 📝 [CSS @layer：构建更高效、更可维护的样式层级 | 菠菜眾長](https://lruihao.cn/posts/at-layer/ "Wed Jun 18 2025 2:35 AM")
-- 👨‍💻 [Vue.js History 模式下的 NGINX 配置与 API 代理 | 菠菜眾長](https://lruihao.cn/posts/vue-build/ "Wed Jun 11 2025 2:05 AM")
-- 📝 [The webfont package for the MMT typeface. | 菠菜眾長](https://lruihao.cn/projects/lruihao/mmt-webfont/ "Thu Apr 10 2025 8:35 AM")
-- 👨‍💻 [API proxies powered by Vercel. | 菠菜眾長](https://lruihao.cn/projects/lruihao/vercel-proxy/ "Wed Apr 09 2025 2:13 AM")
+- 👨‍💻 [CSS @layer：构建更高效、更可维护的样式层级 | 菠菜眾長](https://lruihao.cn/posts/at-layer/ "Wed Jun 18 2025 2:35 AM")
+- 📝 [Vue.js History 模式下的 NGINX 配置与 API 代理 | 菠菜眾長](https://lruihao.cn/posts/vue-build/ "Wed Jun 11 2025 2:05 AM")
+- 👨‍💻 [The webfont package for the MMT typeface. | 菠菜眾長](https://lruihao.cn/projects/lruihao/mmt-webfont/ "Thu Apr 10 2025 8:35 AM")
+- 📝 [API proxies powered by Vercel. | 菠菜眾長](https://lruihao.cn/projects/lruihao/vercel-proxy/ "Wed Apr 09 2025 2:13 AM")
 - 📝 [CSS Flexbox 布局指南 | 菠菜眾長](https://lruihao.cn/posts/flexbox/ "Mon Jan 20 2025 7:56 AM")
-- 📝 [Generate a list of all hugo-fixit theme components. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/action-component-list/ "Tue Jan 14 2025 9:10 AM")
-- 🔥 [A Hugo theme component with asciinema-embed shortcode. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/shortcode-asciinema/ "Wed Jan 08 2025 9:20 AM")
+- 🔥 [Generate a list of all hugo-fixit theme components. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/action-component-list/ "Tue Jan 14 2025 9:10 AM")
 - 📝 [CSE Support | FixIt](https://fixit.lruihao.cn/guides/cse-support/ "Thu Nov 28 2024 7:01 AM")
 
 <!-- BLOG-POST-LIST:END -->
