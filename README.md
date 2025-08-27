@@ -23,9 +23,9 @@
 
 ## Tech stack
 
-<!-- nextjs,nuxtjs,nestjs,windicss -->
+<!-- nextjs,nuxtjs,nestjs,windicss &perline=10 -->
 
-![My Skills](https://skillicons.dev/icons?i=vue,react,ts,nodejs,electron,tailwind,sass,md,&perline=10)
+![My Skills](https://skillicons.dev/icons?i=vue,react,ts,nodejs,electron,tailwind,sass,md)
 
 ## Tools I use
 
