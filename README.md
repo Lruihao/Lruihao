@@ -1,6 +1,6 @@
 <!-- # 👋 Hi there, This is Lruihao -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9ACA&width=435&lines=Hi%2C+I'm+Lruihao+%F0%9F%91%8B+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969da&width=435&lines=Hi%2C+I'm+Lruihao+%F0%9F%91%8B+)
 
 ![views](https://komarev.com/ghpvc/?username=Lruihao&color=ff69b4)
 
@@ -25,11 +25,11 @@
 
 <!-- nextjs,nuxtjs,nestjs,windicss -->
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,ts,vue,react,electron,tailwind,html,css,js,jquery,sass,less,bootstrap,php,python,laravel,mysql,md,latex,&perline=10)
+![My Skills](https://skillicons.dev/icons?i=vue,react,ts,nodejs,electron,tailwind,sass,md,&perline=10)
 
 ## Tools I use
 
-![My Tools](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,pnpm,vim)
+![My Tools](https://skillicons.dev/icons?i=vscode,vite,webpack,pnpm,git,githubactions,vercel,vim)
 
 ## Latest Blog Posts
 
