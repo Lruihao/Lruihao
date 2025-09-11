@@ -45,9 +45,9 @@ I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 - 📝 [Vue.js History 模式下的 NGINX 配置与 API 代理 | 菠菜眾長](https://lruihao.cn/posts/vue-build/ "Wed Jun 11 2025 2:05 AM")
 - 👨‍💻 [The webfont package for the MMT typeface. | 菠菜眾長](https://lruihao.cn/projects/lruihao/mmt-webfont/ "Thu Apr 10 2025 8:35 AM")
 - 📝 [API proxies powered by Vercel. | 菠菜眾長](https://lruihao.cn/projects/lruihao/vercel-proxy/ "Wed Apr 09 2025 2:13 AM")
+- 📝 [Extended Shortcode - gist | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/gist/ "Wed Apr 02 2025 8:35 AM")
+- 🔥 [Extended Shortcode - bluesky | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/bluesky/ "Wed Mar 12 2025 7:04 AM")
 - 📝 [CSS Flexbox 布局指南 | 菠菜眾長](https://lruihao.cn/posts/flexbox/ "Mon Jan 20 2025 7:56 AM")
-- 🔥 [Generate a list of all hugo-fixit theme components. | 菠菜眾長](https://lruihao.cn/projects/hugo-fixit/action-component-list/ "Tue Jan 14 2025 9:10 AM")
-- 📝 [CSE Support | FixIt](https://fixit.lruihao.cn/guides/cse-support/ "Thu Nov 28 2024 7:01 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
