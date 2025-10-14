@@ -36,18 +36,18 @@
 I regularly write articles and docs on 菠菜眾長[^1] and FixIt[^2].
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [Extended Shortcode - tabs | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/tabs/ "Thu Sep 11 2025 5:53 AM")
-- 🔥 [Command line tool for generating a changelog from git tags and commit history | 菠菜眾長](https://lruihao.cn/projects/lruihao/auto-changelog-plus/ "Sat Aug 30 2025 3:40 PM")
+- 📝 [Code Fences Extended - JSON | FixIt](https://fixit.lruihao.cn/documentation/content-management/json-viewer/ "Mon Oct 13 2025 10:49 PM")
+- 🔥 [Extended Shortcode - tabs | FixIt](https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/tabs/ "Thu Sep 11 2025 5:53 AM")
+- 📝 [Command line tool for generating a changelog from git tags and commit history | 菠菜眾長](https://lruihao.cn/projects/lruihao/auto-changelog-plus/ "Sat Aug 30 2025 3:40 PM")
 - 📝 [让 Mermaid 图表自动跟随系统深浅色 | 菠菜眾長](https://lruihao.cn/posts/mermaid-theming/ "Sat Aug 16 2025 4:37 AM")
 - 📝 [黑盒出关・三把钥匙定江湖 | 菠菜眾長](https://lruihao.cn/posts/wc-01-prologue/ "Tue Aug 05 2025 3:31 AM")
-- 📝 [Code Playground | 菠菜眾長](https://lruihao.cn/posts/code-playground/ "Mon Aug 04 2025 3:37 AM")
-- 👨‍💻 [A custom web component that embeds caniuse.com browser compatibility data for a specific feature. | 菠菜眾長](https://lruihao.cn/projects/lruihao/caniuse-embed-element/ "Tue Jul 22 2025 3:40 AM")
-- 📝 [A custom element for viewing and interacting with JSON data. | 菠菜眾長](https://lruihao.cn/projects/lruihao/json-viewer-element/ "Sat Jul 19 2025 7:05 AM")
-- 👨‍💻 [Mathematical formulas - MathJax support | FixIt](https://fixit.lruihao.cn/documentation/content-management/mathjax-support/ "Sun Jun 29 2025 11:30 AM")
+- 👨‍💻 [Code Playground | 菠菜眾長](https://lruihao.cn/posts/code-playground/ "Mon Aug 04 2025 3:37 AM")
+- 📝 [A custom web component that embeds caniuse.com browser compatibility data for a specific feature. | 菠菜眾長](https://lruihao.cn/projects/lruihao/caniuse-embed-element/ "Tue Jul 22 2025 3:40 AM")
+- 👨‍💻 [A custom element for viewing and interacting with JSON data. | 菠菜眾長](https://lruihao.cn/projects/lruihao/json-viewer-element/ "Sat Jul 19 2025 7:05 AM")
+- 📝 [Mathematical formulas - MathJax support | FixIt](https://fixit.lruihao.cn/documentation/content-management/mathjax-support/ "Sun Jun 29 2025 11:30 AM")
 - 📝 [CSS @layer：构建更高效、更可维护的样式层级 | 菠菜眾長](https://lruihao.cn/posts/at-layer/ "Wed Jun 18 2025 2:35 AM")
-- 📝 [Vue.js History 模式下的 NGINX 配置与 API 代理 | 菠菜眾長](https://lruihao.cn/posts/vue-build/ "Wed Jun 11 2025 2:05 AM")
-- 🔥 [The webfont package for the MMT typeface. | 菠菜眾長](https://lruihao.cn/projects/lruihao/mmt-webfont/ "Thu Apr 10 2025 8:35 AM")
-- 📝 [API proxies powered by Vercel. | 菠菜眾長](https://lruihao.cn/projects/lruihao/vercel-proxy/ "Wed Apr 09 2025 2:13 AM")
+- 🔥 [Vue.js History 模式下的 NGINX 配置与 API 代理 | 菠菜眾長](https://lruihao.cn/posts/vue-build/ "Wed Jun 11 2025 2:05 AM")
+- 📝 [The webfont package for the MMT typeface. | 菠菜眾長](https://lruihao.cn/projects/lruihao/mmt-webfont/ "Thu Apr 10 2025 8:35 AM")
 
 <!-- BLOG-POST-LIST:END -->
 
